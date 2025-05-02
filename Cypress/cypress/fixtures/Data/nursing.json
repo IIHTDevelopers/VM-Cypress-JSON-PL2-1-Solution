@@ -1,0 +1,9 @@
+{
+  "Text": [{ "value": "Temp value" }],
+  "DateRange": [
+    {
+      "FromDate": "01-01-2020"
+    }
+  ],
+  "PatientName": [{ "name": "Deepika Rani" }]
+}
